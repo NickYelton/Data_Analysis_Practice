@@ -1,4 +1,4 @@
-# Portfolio_Projects
+# Data Analytics Portfolio_Projects
 
 This is my portfolio of projects that showcase my knowledge and abilities in data analysis using commonplace tools like Python, SQL, and Tableau.
 
