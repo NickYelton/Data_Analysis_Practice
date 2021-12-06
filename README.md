@@ -4,7 +4,7 @@ This is my portfolio of projects that showcase my knowledge and abilities in dat
 
 ## SQL Analysis
 
-The SQL projects make use of COVID-19 pulled from the CDC website and housing data found on Github to demonstrate data cleaning and EDA techniques using joins, temp tables, and views.
+The SQL projects make use of COVID-19 data pulled from the CDC website and housing data found on Github to demonstrate data cleaning and EDA techniques using joins, temp tables, and views.
 
 ## Python
 
